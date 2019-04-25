@@ -29,6 +29,11 @@
 	border-radius: 30%;
 	
 }
+h2{
+	text-align: center;
+	font-size: 40px;
+	color: white;
+}
 /* Three image containers (use 25% for four, and 50% for two, etc) */
 .column {
   float: left;
